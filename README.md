@@ -8,7 +8,7 @@ Open `index.html` in a modern browser. The interface, catalog, search, favorites
 
 ## Project files
 
-- `index.html` — semantic page structure and application entry point.
+- `PointAlpha.html` — semantic page structure and application entry point.
 - `style.css` — responsive dark interface, accessibility states, and dialog layout.
 - `app.js` — search, navigation, local preferences, favorites, and recent history.
 - `scenarios.js` — 70 scenario records, guidance, citations, and safety/localization notes.
