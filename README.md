@@ -31,5 +31,4 @@ When adding or revising guidance, verify each individual instruction against a s
 The interface supports keyboard operation, visible focus, a skip link, reduced-motion preferences, large text, high contrast, and a focus mode. Use `⌘ K` on macOS or `Ctrl K` on other platforms to focus search.
 
 ## Release
-
-Run `python3 tools/build_release.py` after changing source files. `PointAlpha.html` is the standalone offline release. It embeds all application CSS and JavaScript and references no remote resources.
+`PointAlpha.html` is the standalone offline release. It embeds all application CSS and JavaScript and references no remote resources.
