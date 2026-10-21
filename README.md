@@ -4,7 +4,7 @@ Point Alpha is an offline educational resource about emergency scenarios, built 
 
 ## Run
 
-Open `pointalpha.html` in a modern browser. The interface, catalog, search, favorites, recent history, and accessibility controls run locally. No network connection, account, server, or external library is required.
+Open `PointAlpha.html` in a modern browser. The interface, catalog, search, favorites, recent history, and accessibility controls run locally. No network connection, account, server, or external library is required.
 
 ## Project files
 
